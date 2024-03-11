@@ -1,0 +1,5 @@
+venv/
+
+registrationForm/db.sqlite3
+
+registrationForm/registrationForm/__pycache__ 
